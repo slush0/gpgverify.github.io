@@ -1,5 +1,5 @@
-// var keyserverURL = "http://subset.pool.sks-keyservers.net";
-var keyserverURL = 'https://sks.disunitedstates.com';
+var keyserverURL = "http://subset.pool.sks-keyservers.net";
+// var keyserverURL = 'https://sks.disunitedstates.com';
 
 function parse_url() {
     var signature = window.location.href.split(/#(.+)?/)[1];
